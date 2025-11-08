@@ -1,0 +1,61 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain": [
+        "cryptobubbles.net",
+        "ficbook.net",
+        "tronenergy.market",
+        "tronscan.org",
+        "github.com",
+        "4pda.to",
+        "store.steampowered.com",
+        "monero.hashvault.pro",
+        "lib.rus.ec",
+        "flibusta.is",
+        "justlend.org",
+        "polygon.technolog",
+        "www.binance.com",
+        "binance.com",
+        "poloniex.com",
+        "share.bitget.com",
+        "bitget.com",
+        "www.kucoin.com",
+        "kucoin.com",
+        "www.huobi.com",
+        "huobi.com",
+        "bingx.com",
+        "www.okx.com",
+        "okx.com",
+        "www.bybit.com",
+        "bybit.com",
+        "www.bitfinex.com",
+        "bitfinex.com",
+        "www.mexc.com",
+        "mexc.com",
+        "www.coinex.com",
+        "coinex.com",
+        "mail.dmail.ai",
+        "serva.one",
+        "teletype.in",
+        "ru.v2nodes.com",
+        "v2nodes.com",
+        "habr.com",
+        "amnezia.org",
+        "hiddify.com",
+        "aliexpress.ru",
+        "filmix.my",
+        "steamdb.info",
+        "walletconnect.org"
+      ],
+      "domain_suffix": [
+        ".xyz",
+        ".io",
+        ".info",
+        ".cc",
+        ".store",
+        ".ac"
+      ]
+    }
+  ]
+}
